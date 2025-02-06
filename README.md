@@ -33,6 +33,7 @@ The course provided us the base for getting real time data of busses around Tamp
 - Project about transportation system
 - Frontend development (Elm, React...)
 - Principles of programming languages in general
+- Secure programming
 - Software architecture models
 ---
 
