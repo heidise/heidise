@@ -14,6 +14,9 @@ SISU is a study planning application done with Java. The basic idea of the study
 User can register and log in to the system and display and modify their study plans depending on which degree they have chosen.
 My main responsibility was to fetch data and modify it on the backend.
 
+### [Testing assignment](https://github.com/heidise/testing_assignment)
+The idea of this project was to learn how to plan and implement tests for a provided program and to practise use of GitHub Actions. First, test plan was done including end-to-end scenarios and so on. Based on the test plan, functional tests were created for the chosen files, test report and bug reports were done, CI/CD pipeline was done using GitHub Actions and the overall quality of the tested program was analysed.
+
 ### [Sandwich shop](https://github.com/heidise/sandwich_shop)
 Sandwich shop is a single page application done mostly with JavaScript and React in which the user can order different sandwiches. Order processes in the backend and frontend displays the current state of the order.
 My main responsilities were user endpoint, some parts of the frontend, Swagger documentation and fixing found bugs.
