@@ -4,6 +4,9 @@ Here are some course related example projects which I have done myself or been p
 
 ## 🚀 Projects
 
+### [Daily Quizzes](https://github.com/heidise/daily_quizzes) (ongoing)
+Ongoing personal project which idea is to build web application using Java Spring Boot in the backend, React in the frontend and PostgreSQL as a database. The project is containerized using Docker so that it is easier to run in different environments. The main functionality is that users can answer daily quizz questions and gather points depending on how well they know the answers.
+
 ### [Tourism Planner](https://github.com/heidise/tourism_planner)
 Tourism planner is a web application (Java backend with React+Redux frontend) in which user can use different filtering criterias to find suitable events. After selecting the needed criteria, user can select a day from the calendar to search for events. 
 User can select any event to display more basic information about it and to see weather graphs for that day. 
